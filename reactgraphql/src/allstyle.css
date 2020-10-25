@@ -1,0 +1,17 @@
+.img{
+    height: 100px;
+      width: 100px;
+      display: block;
+      margin-left: auto;
+      margin-right: auto
+    }
+
+label.texte{
+    font-size:18px;
+    font-weight: bold;
+    margin-left: 300px;
+    text-align:left;
+    height:50px;
+    text-align: center;
+    line-height: 50px;
+}
