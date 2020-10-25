@@ -5,7 +5,7 @@ import Body from "./body"
 
 function Allpage(){
     return(
-    <React-Fragment>
+    <React.Fragment>
       <Container>
         <Row>
           <Col xs="6" sm="4"></Col>
@@ -25,7 +25,7 @@ function Allpage(){
           <Col sm="2"></Col>
         </Row>
       </Container>
-    </React-Fragment>
+    </React.Fragment>
     )
 }
 
